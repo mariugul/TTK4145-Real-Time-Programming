@@ -7,11 +7,9 @@ This is the the project in <a href="https://www.ntnu.edu/studies/courses/TTK4145
 The code documentation along with the description and specification can be found at [**HexDocs**](https://hexdocs.pm/elevator/1.0.0/main.html).
 
 ## Authors
-Student
-<a href = "mailto:student@stud.ntnu.no">student@stud.ntnu.no</a>
+Marius C. K. Gulbrandsen
 
-Student
-<a href = "mailto:student@stud.ntnu.no">student@stud.ntnu.no</a>
+Mads E. B. Lysø
 
-Student 
-<a href = "mailto:student@stud.ntnu.no">student@stud.ntnu.no</a>
+Niels S. Semb
+
